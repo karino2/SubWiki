@@ -6,10 +6,14 @@
     {% assign subwiki = page.dir  | replace: "/", "" %}
     {% assign recents_path =  "git-wiki/components/lists/" | append: subwiki | append: "/gened_recents.html" %}
     {% assign test_path = "git-wiki/components/lists/JetpackCompose/gened_recents.html" %}
-    test11 {{ recents_path }} <br>
+    test12 {{ recents_path }} <br>
     {{ test_path }}
     <ul class="page-list">
-       {% include {{ test_path }} %}
+        {% if page.dir == "/JetpackCompose/" %}
+            {% include git-wiki/components/lists/JetpackCompose/gened_recents.html %}
+        {% else %}
+            {% include git-wiki/components/lists/gened_recents.html %}
+        {% endif %}
     </ul>
 
     {% if site.inc_after_page_list %}
