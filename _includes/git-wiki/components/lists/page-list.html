@@ -3,11 +3,6 @@
     {% include {{ site.inc_before_page_list }} %}
     {% endif %}
     <span class="page-list-title">Pages {% if (site.show_wiki_pages_limit >= 1 %} (Latest 15 updated) {% endif %}:</span>
-    {% assign subwiki = page.dir  | replace: "/", "" %}
-    {% assign recents_path =  "git-wiki/components/lists/" | append: subwiki | append: "/gened_recents.html" %}
-    {% assign test_path = "git-wiki/components/lists/JetpackCompose/gened_recents.html" %}
-    test12 {{ recents_path }} <br>
-    {{ test_path }}
     <ul class="page-list">
         {% if page.dir == "/JetpackCompose/" %}
             {% include git-wiki/components/lists/JetpackCompose/gened_recents.html %}
