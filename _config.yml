@@ -68,7 +68,12 @@ defaults:
     scope:
       path: "wiki"
     values:
-      permalink: /:path/:basename
+      permalink: /:basename
+ - 
+    scope:
+      path: "wiki/JetpackCompose"
+    values:
+      permalink: /JetpackCompose/:basename
  -
     scope:
       path: "" # an empty string here means all files in the project
