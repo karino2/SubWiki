@@ -7,7 +7,7 @@
     {% assign recents_path =  "git-wiki/components/lists/" | append: subwiki | append: "/gened_recents.html" %}
     test {{ recents_path }}
     <ul class="page-list">
-      test2
+      test3 {% include {{ recents_path }} %}
     </ul>
 
     {% if site.inc_after_page_list %}
