@@ -4,8 +4,11 @@
     {% if site.logo_url %}
     <img src="{{ site.logo_url | relative_url }}" width="20px">
     {% endif %}
-    {% assign subwiki_name = page.dir  | replace: "/", "" %}
-    {{ subwiki_name | escape }}
+    {% assign title = page.dir  | replace: "/", "" %}
+    {% if title == "" %}
+      {% assign title = site.title %}
+    {% endif %}
+    {{ title | escape }}
   </a>
 </div>
 <header class="w3-sidebar w3-bar-block w3-collapse" id="git-wiki-sidebar">
@@ -19,7 +22,7 @@
       {% if site.logo_url %}
       {% include git-wiki/components/logo/logo.html %}
       {% else %}
-      <h1>{{ site.title | escape }}</h1>
+      <h1>{{ title | escape }}</h1>
       {% endif %}
     </div>
 
