@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ls ../wiki_src/$1/*.md | xargs -L 1 ./gen_pair.sh | sort -r | head -n 15 | cut -b 24- | xargs basename | awk -f gen_recents.awk > ../_includes/git-wiki/components/lists/$1/gened_recents.html
+ls ../wiki_src/$1/*.md | xargs -L 1 ./gen_pair.sh | sort -r | head -n 15 | cut -b 24- | awk -f gen_recents.awk > ../_includes/git-wiki/components/lists/$1/gened_recents.html
