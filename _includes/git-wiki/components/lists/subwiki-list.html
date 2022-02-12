@@ -1,6 +1,6 @@
-{% if page.dir == "/JetpackCompose/" %}
-{% include git-wiki/components/lists/JetpackCompose/gened_recents.html %}
-{% else %}
-{% include git-wiki/components/lists/gened_recents.html %}
-{% endif %}
-
+{% case page.dir %}
+    {% when "/JetpackCompose/" %}
+        {% include git-wiki/components/lists/JetpackCompose/gened_recents.html %}
+    {% else %}
+        {% include git-wiki/components/lists/gened_recents.html %}
+{% endcase %}
