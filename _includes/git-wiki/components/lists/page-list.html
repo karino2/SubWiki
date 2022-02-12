@@ -3,12 +3,9 @@
     {% include {{ site.inc_before_page_list }} %}
     {% endif %}
     <span class="page-list-title">Pages {% if (site.show_wiki_pages_limit >= 1 %} (Latest 15 updated) {% endif %}:</span>
+    test
     <ul class="page-list">
-        {% if page.dir == "/JetpackCompose/" %}
-            {% include git-wiki/components/lists/JetpackCompose/gened_recents.html %}
-        {% else %}
-            {% include git-wiki/components/lists/gened_recents.html %}
-        {% endif %}
+        {% include_relative subwiki-list.html %}
     </ul>
 
     {% if site.inc_after_page_list %}
