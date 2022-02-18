@@ -2,6 +2,10 @@
 - lumen 内腔、細胞小器官のさらに内側の空間を指し、細胞質とは膜を挟んで隔てられた空間
 - organelle 細胞小器官
 
+## 関連リンク
+
+- [Membranes - Biochemistry 705x](https://karino2.github.io/Biochemistry705x/Membranes) 705xでの関連ノート
+
 ## Membraneとは
 
 バリアーとなって機能する膜で内側と外側を分ける。
@@ -41,7 +45,46 @@
 - Plasma membrane ... 50%のタンパク質
 - ミトコンドリアのmembrane ... 75%のタンパク質
 
+### Channel Transporter, Pump
+
+- チャンネル ... 拡散で移動
+- トランスポーター ... 結合してconformation changeがあるがエネルギーは要らない
+- ポンプ ... エネルギーを使って拡散とは反対側に動く
+
+CellBiologyResourcesのTransporter and Signaling.pdfも参考のこと。
+
+またこのpdfには以下のポテンシャルのgradientの話も
+
+|  | Na+ | K+ | Cl- |
+| ---- | ---- | ---- | ---- |
+| inside the cell | 15mM | 150mM | 10mM |
+| etracellular environment | 150mM | 5mM | 120mM |
+
+哺乳類の細胞は通常-70mVで、細胞質は負に帯電している。
+
+[チャンネル、トランスポーター、ポンプ - Biochemistry 705x](https://karino2.github.io/Biochemistry705x/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%80%81%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%81%E3%83%9D%E3%83%B3%E3%83%97) 705xのノートはもっと詳しい。
+
 ## Fluidity
+
+リン脂質や膜タンパク質は素早く拡散（diffuse）する。
+Cell-Cell signalingなどで重要になってくる。
+
+以下にT-cellの例を図示する。
+
+[PngNoteのCellBiology706x、2ページ目](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=1)
+
+T-cellのレセプターが一度コンタクトすると、周りのレセプターが集まってきて信号が強化される。
+この集まってくるのはdiffusionによって。
+
+### Fluidityのassay：FRAP
+
+FRAP, Fluorescence recovery after photobleaching。
+レーザーで細胞の特定の場所の光を全部出し切った後に、そこの黒くなった穴がその後時間とともにどうなるかを計測するassay。
+
+調べたいタンパク質にGFPをつけて行う。
+
+時間が経ったあとにもとのレベルに戻るか、途中までしか戻らないかは膜とかタンパク質に依る。動かないタンパク質が残っていたり。
+そこで、FRAPにおけるDiffusion Rateは、十分に時間が経った後に戻る水準の半分までrecoverするのにかかる時間、と定義される。
 
 ## Heterogeneity
 
