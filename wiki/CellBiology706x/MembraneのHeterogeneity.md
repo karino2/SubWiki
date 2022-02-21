@@ -1,6 +1,4 @@
-## Heterogeneity
-
-Heterogeneityがもたらｓもの
+Heterogeneityがもたらすもの
 
 - 電荷
 - Activation Domain
@@ -13,7 +11,7 @@ Heterogeneityがもたらｓもの
 2. 脂肪酸のtailの違い
 3. そのほかのlipids（コレステロールとか）
 
-### アルコール基の違い
+## アルコール基の違い
 
 まず、大きさが違う。
 
@@ -34,7 +32,7 @@ PSはアポトーシスの時に反対向き（細胞膜の外側のレイヤー
 小さいheadでそこはPEに似ているが、負に帯電している所が違う。
 負に帯電しているので平常時は細胞質側の層にある。
 
-### 脂肪酸のtailの違い
+## 脂肪酸のtailの違い
 
 大きく以下の２つ。
 
@@ -45,7 +43,7 @@ PSはアポトーシスの時に反対向き（細胞膜の外側のレイヤー
 これは足が曲がったピンみたくなるので、パッキングした時にゆるくなる要因となる。
 また、そこは膜が薄くなる事が多い。
 
-### その他のlipids
+## その他のlipids
 
 **Cholesterol**
 
@@ -66,47 +64,4 @@ polar headと疎水性のtailという構成なのはリン脂質と同じ。た
 それは同様にERやGolgiではlumen側、つまり内側に配置される事になる。
 endocytosisで取り込む時を考えると細胞膜の外側がERの内側になる事が分かる。
 
-## Asymmetry
-
-Bilayerのそれぞれの違いについて考える。
-
-### トポロジーと細胞膜の外側とERの内側
-
-endocytosisで細胞の外から何かを取り込むケースを考える。
-
-細胞膜がへこんで球になって取り込まれる時、
-細胞膜の、細胞の外を向いている側の層はERの内側を向く事になる。
-
-**細胞膜の内側に配置されるもの**
-
-- PS (負に帯電）
-- PI (phosphatidylinositol)
-
-### リン脂質が二重層のどちら側か（ヘッドがどちらを向くか）の重要性
-
-以下の点で、ヘッドがどちらを向いているかというのは重要
-
-1. シグナリング
-   - PSやPIはBiochemicalなハブとして機能する
-   - Membrane potentialを形成する（形成して反応を助ける）
-2. 形状や曲率
-   - 曲がる内側はコーン型、外側はストレート型
-
-## 膜タンパク質のAsymmetry
-
-### Integralなタンパク質の種類
-
-[PngNoteの3ページ目](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=2)
-
-- Type I (C末端がCytosol側)
-- Type II (Iの逆）
-- 複数のtransmembrane domainを持つもの
-   - G-protein-coupled receptorやPoreを形成するタンパク質など
-   - N末端がどちら向きかはどうでも良い事が多い
-
-### 役割の違い
-
-細胞の外側に向いている部分はリガンドと結合してレセプターとして機能するもので、
-内側に向いているものはキナーゼドメインなど反応を触媒するもの。
-
-[基礎的な用語](基礎的な用語.md)
+これは[MembraneのAsymmetry](MembraneのAsymmetry.md)の話題にも関連。

@@ -5,4 +5,5 @@ edXの[Cell Biology: Transport and Signaling](https://www.edx.org/course/cell-bi
 ## Unit: Membranes, Lipids, and Proteins
 
 - [Membrane](Membrane.md)
-- [MembraneのHeterogeneityとAsymmetry](MembraneのHeterogeneityとAsymmetry.md)
+- [MembraneのHeterogeneity](MembraneのHeterogeneity.md)
+- [MembraneのAsymmetry](MembraneのAsymmetry.md)
