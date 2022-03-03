@@ -48,7 +48,7 @@ cotranslational translocationとpost-translational translocationの２つのメ�
 2. SRPとリボソームがくっついたものがERへと移動し、ER表面のSRP receptorとSRPが結合する。
 3. ERの表面にはSec61 (transloconとも呼ばれるらしい）と呼ばれるチャンネルがあって、SRPはこのチャンネルにリボソームとssを渡す。
 4. SRPが離れるとtranslationが再開されて、それがチャンネルを通して合成されたタンパク質を押し出していく。
-  - ssはhydrophobicなのでlumenの中には入らない。
+   - ssはhydrophobicなのでlumenの中には入らない。
 5. その後signal peptidaseというタンパク質がやってきてssをカットする。
 6. 残りはそのままlumenに押し出される。
 
@@ -93,6 +93,17 @@ N-linked glycanの前駆体はERの細胞質側表面で合成されて、lumen�
 O-linkedはSerineかThreonineの側鎖のOと結合する。O-linked glycanはN-acetylgalactosamine (GaINAc)から始まるのが多いとか。
 
 Glycosylationを触媒するenzymeをglycosyltransferaseと呼ぶ。
+また、側鎖からsugarを取り除くenzymeをglycosidasesと呼ぶ。
+
+### Glycosylationの重要性
+
+Glycosylationは以下のような働きがある
+
+- 新規に合成されたタンパク質のfolding
+- 新規に合成されたタンパク質の移動
+- タンパク質同士の相互作用
+- substrateのspecificityに影響を与える
+- 病原体を識別するのを助ける
 
 ## Cotranslational translocationとfolding
 
