@@ -68,3 +68,85 @@ GEFはDNAと結合する事で核の中に留まったりする。
 - Ran-GDPになると、ExportinとCargoのaffinityがもとに戻って低くなる
 
 輸送にはATPは消費していない事に注意。
+
+## FRETでRanの勾配を測る
+
+- fluorophore 蛍光色素分子
+
+Ran-GTPとRan-GDPの濃度勾配で輸送の向きを実現している、という話だった。
+ではその勾配をどう計測して確認したら良いだろうか？
+
+### FRETの登場人物
+
+- IBB = Importin Beta Binding Protein、Importin-Betaがフリーステートの時に結合する（Cargoと同様）
+- CyanFPとYellowFPをIBBにつける
+
+[PngNoteの7ページ目](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=6)
+
+シアンのemissionと黄色のexcitationはオーバーラップしている。
+なので距離が小さいと、FRETと呼ばれる共鳴現象が起きる。
+
+### FRET: Forster Resonance Energy Transfer
+
+- emissionとexcitationのオーバーラップのある波長同士で
+- 距離が10nm以下の時に
+
+エネルギーの共鳴現象が起こり、DonorからAcceptorへエネルギーが渡される。
+
+この場合はCyanFPがDonorで黄色FPがAcceptor。
+
+### IBBとFRETが起こる時、起こらない時
+
+436nmの光を当てると、
+
+- FRETが起こる場合は527nmの光が出てくる（黄色）
+- FRETが起こらない場合は480nmの光が出てくる（シアン）
+
+IBBが何とも結合してないと２つの蛍光分子が近くに揃ってFRETが起こる。
+IBBがImportinと結合している時は蛍光分子同士が離れてFRETが起こらない。
+
+つまりImpBがRanGTPと結合している時はFRETが起こり、ImpBが自由な時はIBBと結合するのでFRETが起こらない。
+
+[PngNoteの8ページ目](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=7)
+
+### 実際の計測は、波長の比率
+
+FRETの度合いとしては、一番素朴には AcceptorEM/DonorEM を測る。
+Donorは480nm, Acceptorは527nm。
+
+- RanGDPが多い領域では、480nmが多い
+- RanGTPが多い領域では、527nmが多い
+
+だから核が黄色に、細胞質がシアンに見えるのが期待値。
+
+## NLS/NESのマスクによる制御：Transcription Factorsの移動
+
+- antigen 抗原
+- inflammatory 炎症性の
+
+Ran gradientの他に、NLS/NESをマスクする事で輸送を制御するメカニズムがある。
+
+TFは普通は細胞質側にある。gene transcriptionがactivateされる時だけTFが核に移動して欲しい。
+またactivateがある時はturn offの仕組みも必要。restingに戻る為の仕組み。
+
+TFには、NESとNLSが両方ある。これをマスクして制御する。
+
+### T-cellの例：NFAT
+
+NFAT（Nuclear Factor of Activated T-cells）。
+NFATはT cellシグナルに対するレセプターとして機能し、
+抗原を認識するとT cellをturn onし、pro inflammatory genesをactivateする。
+これは必要になったら素早くturn-offされないといけない。
+
+NFATも先述の通りNLSとNESを持つ。
+restingの状態ではNLSはリン酸化されてマスク状態にある。
+
+activateは、Calcineurinと呼ばれるphosphataseが行う。
+NLSのリンの部分を加水分解しNESを何らかの方法でマスクしていると思われている。
+
+NLSが有効にあるとNFATは核に運ばれて、gene transcriptionが行われる。
+
+シグナルが無くなりResting状態に戻ると、Calcineurinを蹴り飛ばし、
+キナーゼがNLSをリン酸化してマスクする。
+
+つまり、Ran勾配の他に、NLS、NESをマスクするという制御方法もあるという事。
