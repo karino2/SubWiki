@@ -17,7 +17,7 @@
 
 ポジティブとネガティブのフィードバックがある。今後使う矢印の形の意味はPngNoteを参照。
 
-[PngNoteの8](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=8)
+[PngNoteの9ページ](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=8)
 
 ## Integrate
 
