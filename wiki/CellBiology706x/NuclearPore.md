@@ -70,7 +70,7 @@ iFRAPは小さい領域以外の全体をphotobleachingして、時間の経過�
 | ERインポート | SS | SRP+SRP Receptor |
 | ERに留まる | KDEL | KDEL Receptor |
 | Vesicle Trafficking | Rabs, SNAREs | t-SNARES, Rab Effector |
-| Nuclearインポート | Nuclear Import Signal (またの名をNuclear Logalized Signal、NLSと略す) | Importtin |
+| Nuclearインポート | Nuclear Import Signal (またの名をNuclear Localized Signal、NLSと略す) | Importtin |
 | Nuclearエクスポート | Nuclear Export Signal（NES） | Exportin |
 
 ERのインポートではSec61はタンパク質はunfoldな状態である、という制限があった。
