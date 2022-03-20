@@ -68,7 +68,7 @@ Grb2, SOS, Rafはcytoplasmに浮遊しているタンパク質で、RTKはtransm
 
 RTKの例としてさらにもう一つ、PI3 Kinase Signaling pathwayを見てみる。
 
-[PngNoteの12ページ](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=11)
+[PngNoteの13ページ](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=12)
 
 RTKの所でも触れた通り、RTKは以下のように進む
 

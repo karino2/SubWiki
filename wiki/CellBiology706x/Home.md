@@ -31,5 +31,5 @@ Secretory proteinがどう輸送されていくか。
 ## Unit: Signaling Pathways and Regulatory Paradigms
 
 - [シグナルpathwayの例](シグナルpathwayの例.md)
-
-attenuate ... （ウィルスなどを）減毒する。（信号などを）減衰させる。
+- [変更を実現するメカニズム](変更を実現するメカニズム.md)
+- [UbiquitinationとDegradation](UbiquitinationとDegradation.md)
