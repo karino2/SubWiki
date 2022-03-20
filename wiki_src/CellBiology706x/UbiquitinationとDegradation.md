@@ -24,8 +24,36 @@ Ubiquitinには以下の２つの形態がある。
 
 plyubiquitationはdegradeの目印として機能するので重要。
 
-## Ubと265 proteasomeによる分解
+## Ubと265 proteasomeによる分解（proteolysis）
 
 Ubがターゲットのタンパク質にpolyubiquitationの形で連なると、265 proteasomeがこれを識別し、ターゲットを分解する。
 この過程でUbは分離して再利用される。
+この分解をproteolysisと呼ぶ。
 
+Ubがくっついていく過程には3つのEnzymeが関わっている。E1, E2, E3 Ubiquitin ligaseだ。
+
+[PngNoteの1４ページ](https://karino2.github.io/ImageGallery/CellBiology706x.html#lg=1&slide=13)
+
+- E3 Ubiquitin ligase ... ターゲットにくっついてどこにUbを足すかを示す
+- E2 ... UbをE3 Ubiquitin ligaseに渡す
+- E1 ... UbをE2に渡す
+
+なお、E1は2種類しか知られていない。E2は20種類程度。E3 Ub ligaseは数百種類以上。キナーゼと同じくらいのオーダーの種類。
+
+キナーゼと同様、この過程も凄くいろいろな所で使われていて、様々なE3があってそれぞれspecificityを持っている。
+
+今後細胞分裂の講義で登場するE3の例としては以下の２つがある。
+
+- SCF
+- Anaphase Promoting Complex (APC/C)
+
+## Degradationの意義
+
+わざわざATPを使って合成したタンパク質を分解するのはなぜか？エネルギー的にはもったいない事のように思えるが。
+
+Degradationの特徴として、irreversibleというのがある。
+一度分解すると再合成されるまでそのタンパク質は無くなる。
+再合成は数時間とか1日とか掛かる話で、数秒とかのオーダーでは完全にirreversible。
+
+例えば細胞分裂のサイクルなどでは、G1, F, G2, Mといったフェーズに遷移していく。これは一方通行で遷移して欲しい。
+こうした用途にはdegradationは素晴らしい機構となる。
