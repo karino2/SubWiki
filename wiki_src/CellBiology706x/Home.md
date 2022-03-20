@@ -32,3 +32,4 @@ Secretory proteinがどう輸送されていくか。
 
 - [[シグナルpathwayの例]]
 
+attenuate ... （ウィルスなどを）減毒する。（信号などを）減衰させる。
