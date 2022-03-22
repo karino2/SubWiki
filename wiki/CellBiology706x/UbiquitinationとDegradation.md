@@ -145,3 +145,5 @@ Notchがレセプターとしてこれと結合すると、２つのproteaseを�
 一つはPresenilinで、これがNotchの細胞質側を切り離す。すると切り離された先にあるNLSにより、核に運ばれ、transcription factorとして機能する。
 
 もう一つのproteaseはADAM10で、これがNotchの細胞の外側をカットして、Deltaが再び使えるようにする。
+
+隣の細胞からのシグナルをparacrine signalingと呼ぶ？ここではNotch-Delta pathwayとWntシグナリングがそれか。
