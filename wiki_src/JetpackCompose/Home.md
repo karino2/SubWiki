@@ -9,4 +9,4 @@ JetpackComposeの関数名などをそのままWikiNameとして使いたいの�
 - [[Divider]]
 - [[Spacer]]
 - [[サンプル]]
-
+- [[State]]
