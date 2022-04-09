@@ -42,16 +42,15 @@ Secretory proteinがどう輸送されていくか。
 
 [Cell Biology: The Cytoskeleton and Cell Cycle](https://www.edx.org/course/cell-biology-2)
 
-### 顕微鏡
+[PngNoteのCellBiology706x2](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=0) slideがページno.
 
-- vernacular お国言葉、方言
-- incident 投射する、入射する
-- tether つなぎ綱
+### Unit: Microscopy
 
-###  分解能
+- [顕微鏡とFluorescence](顕微鏡とFluorescence.md)
 
-- numerical aperture 開口数（対物レンズの性能を示す指標）
-- aperture レンズの口径
-- specimen 見本、標本
+### Unit: The Actin Cytoskeleton
 
-[Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/) 細胞関連のスケールを見るのに良い。
+[PngNoteの6](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=5)
+
+- confer 話し合う、協議する
+- motile 運動性の、自ら運動出来ること
