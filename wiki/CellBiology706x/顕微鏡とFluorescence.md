@@ -74,12 +74,26 @@ Secondary Abを使うメリットとしては、以下の２つがある。
 
 [PngNoteの4](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=3)
 
+GFPはGreen Fluorescence Proteinの略。生きたままの細胞でのタンパク質のトラッキングに使える所が良い。
+
+GFPは26kDaのタンパク質。GFPのシーケンスをORFの最初に置いて、その後に目的のタンパク質のシーケンスが並ぶようにすると、
+目的のタンパク質をトラッキング出来る。
+
+excitation, emissionについては上述のテーブル参照。
 
 
 ##  分解能
+
+[PngNoteの5](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=4)
 
 - numerical aperture 開口数（対物レンズの性能を示す指標）
 - aperture レンズの口径
 - specimen 見本、標本
 
-[Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/) 細胞関連のスケールを見るのに良い。
+光学顕微鏡は光の波長という理論限界がある。大雑把には波長の半分までしか識別出来ない。
+可視光では0.2μmが分解能の理論限界と言える。
+
+これが生物学の対象に対して、何がどれくらい見えるかは上記のPngNoteを参照。
+また、以下のリンクも細胞関連のスケールを見るのに良い。
+
+[Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/) 
