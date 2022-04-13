@@ -50,9 +50,5 @@ Secretory proteinがどう輸送されていくか。
 
 ### Unit: The Actin Cytoskeleton
 
-[PngNoteの6](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=5)
+- [Actinとそのポリマー化](Actinとそのポリマー化.md)
 
-- confer 話し合う、協議する
-- motile 運動性の、自ら運動出来ること
-
-kDについては[レセプターとリガンド](レセプターとリガンド.md)も参照のこと。
