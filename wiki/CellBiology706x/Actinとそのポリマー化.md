@@ -1,5 +1,7 @@
 - confer 話し合う、協議する
 - motile 運動性の、自ら運動出来ること
+- globular 球形の
+- modulate 調節する
 - derivatize 誘導体化する（誘導体は分子の一部を置き換えて得られる化合物の事）
 
 ## Cytoskeletonの構成要素
@@ -40,7 +42,21 @@ kDについては[レセプターとリガンド](レセプターとリガンド
 
 [PngNoteの8ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=7)
 
-pyren actinを使って、pyren actinのassembly assayを行う事で、actinのassemblyを調べる事が出来る。
+pyrene actinを使って、pyrene actinのassembly assayを行う事で、actinのassemblyを調べる事が出来る。
+
+### pyrene actin assayの利点と欠点
+
+利点
+
+- assemblyのkineticsを調べる事が出来る（時間とともにFluorescenceがどう変化するかを見る）
+- assembly-disassemblyがどう調節されているのかを調べる事が出来る
+
+欠点
+
+- 全体の量を測るだけで、個々のパターンを見る訳では無い
+- 形の違いがわからない（リニアかブランチがあるか、など）
+
+これはbulk assayである時点でのpopulationを測るassay。
 
 ## Actinのpolarity
 
@@ -87,17 +103,34 @@ Wiskott-Aldrich syndromeはWASPが機能しない事で引き起こされる病�
 - cover slip 顕微鏡でスライドの上で見本をカバーするのに使うとても薄いガラス
 - sever 切断する
 - sequester 隔離する
+- evanescent 一過性の、つかの間の
 
 [PngNoteの10ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=9)
 
-### ElongationファクターとしてのArp 2/3
+### TIRFとElongationファクターとしてのArp 2/3
 
 Arp 2/3はElongationも促進するが、これは枝分かれを形成するのを助けるように促進する。
 ポリマーの側面にくっつく事が出来るらしい。
 
 枝分かれしている様子はTIRFというFluorescenceを使う事で観測出来る。
+TIRFはTotal Internal Reflection Fluorescence microscopyの略称との事。
+
 TIRFはカバースリップ（スライドの上の試料を覆う薄いガラスカバーの事らしい）に近接している問いだけ光るので、
 この枝分かれを観測する事が出来るとか。
+
+光を角度をつけてcoverslipに照射するとその内側の面で全反射し、境界から50〜100nm程度しか染み出さない。
+そこでcoverslipの付近に観測したいものを置く事ができれば、そこだけを光らせる事が出来る。
+
+この時に使われるfluorophoreとしてはAlexa fluorなどが使われるらしい。
+
+coverslip表面に集める方法としては、myosinを使うという方法が考えられる。
+myosinはactinと結合するので、coverslipをmyosinでコーティングするとactinを集める事が出来る。
+
+ただしmyosinは普通はmotorタンパク質なので動いてしまう。
+そこでN-ethylmaleimide、通称NEMを用いると、結合はしつつmotorの挙動を抑制する事が出来るらしい。
+
+TIRFはsingle-moleculeメソッドという分類らしい。
+これはpyrene actinがbulkメソッドなのと対照。
 
 ### Formin
 
@@ -111,3 +144,29 @@ Actinと関連するたくさんのタンパク質がある。ここでそれら
 [PngNoteの11ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=10)
 
 多くのmyosinはbarbed endからpointed endに向かって移動するが、逆に移動するmyosinもある。
+
+## APC-CとmDia1の実験
+
+抗がん剤のAdenomatous Polyposis Coli、APCと、それとペアとなって働くformin proteinの一種、mDia1についての研究の話。
+
+[PngNoteの12ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=11)
+
+この２つがactin assemblyを促進する事が分かっているとして、これがどのようなメカニズムなのかを知りたいとする。
+
+APCのC末端側のfragment、APC-Cというのがあって、これだけでassemblyの反応を起こすのに十分な事は分かっていて、
+APCを取り出す事が難しい為、APC-Cを使う事にする。
+
+### 実験の手順
+
+APC-Cをblue fluorでラベルづけする。どのような順序で実験を行っていくか？
+
+まずはcontrolとして、bulk measurementであるpyrene-actinn assayで反応がちゃんと起こる事を確認する。
+
+次にAPC-Cの他にもmDia1を赤に、actinに緑の蛍光を付与して、TIRFを行う。
+すると青（APC-C）が末端についたまま、伸びていく方の端には赤（mDia1）がずっとくっついたままである事が見て取れる。
+
+### rocket launcher model
+
+最初にAPC-CとmDia1がくっついていて、中にactinが入っていく。その後APC-Cはpointed末端にくっついたままでいるが、
+mDia1側にはどんどん新しいactinがやってきて結合して伸びていく。
+これをrocket launcher modelと呼び、TIRFの結果から考えられているメカニズム。
