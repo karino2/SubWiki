@@ -101,7 +101,7 @@ Wiskott-Aldrich syndromeはWASPが機能しない事で引き起こされる病�
 ## Elongationを促進するファクター
 
 - cover slip 顕微鏡でスライドの上で見本をカバーするのに使うとても薄いガラス
-- sever 切断する
+- sever 切断する、分かれる（なんか枝分かれを増やす的な意味で使われているように思える）
 - sequester 隔離する
 - evanescent 一過性の、つかの間の
 
@@ -142,6 +142,8 @@ Forminもnucleationとelongationの両方を促進するが、Forminはリニア
 Actinと関連するたくさんのタンパク質がある。ここでそれらを外観してみよう。
 
 [PngNoteの11ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=10)
+
+4のcofilinのsevering factorというのは、切り裂くって意味から枝分かれを促進するfactorという意味っぽい（今週のクイズの回答から）。
 
 多くのmyosinはbarbed endからpointed endに向かって移動するが、逆に移動するmyosinもある。
 
