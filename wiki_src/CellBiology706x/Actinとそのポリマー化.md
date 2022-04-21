@@ -172,3 +172,7 @@ APC-Cをblue fluorでラベルづけする。どのような順序で実験を�
 最初にAPC-CとmDia1がくっついていて、中にactinが入っていく。その後APC-Cはpointed末端にくっついたままでいるが、
 mDia1側にはどんどん新しいactinがやってきて結合して伸びていく。
 これをrocket launcher modelと呼び、TIRFの結果から考えられているメカニズム。
+
+## Microtubuleへ続く
+
+[[Microtubule]]
