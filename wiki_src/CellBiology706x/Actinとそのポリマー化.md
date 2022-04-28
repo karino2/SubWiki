@@ -43,6 +43,7 @@ kDについては[[レセプターとリガンド]]も参照のこと。
 [PngNoteの8ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=7)
 
 pyrene actinを使って、pyrene actinのassembly assayを行う事で、actinのassemblyを調べる事が出来る。
+population based assay。
 
 ### pyrene actin assayの利点と欠点
 
@@ -172,6 +173,13 @@ APC-Cをblue fluorでラベルづけする。どのような順序で実験を�
 最初にAPC-CとmDia1がくっついていて、中にactinが入っていく。その後APC-Cはpointed末端にくっついたままでいるが、
 mDia1側にはどんどん新しいactinがやってきて結合して伸びていく。
 これをrocket launcher modelと呼び、TIRFの結果から考えられているメカニズム。
+
+## Treadmilling
+
+Actinが伸長していった後に一定の長さで留まるのが普通の動きとなる。
+この一定の長さで留まる状態は、片方で伸長されていてもう片方で縮んでいて、この比率が等しい状態となっている時に観測される。
+
+これをactinのtreadmillingと呼ぶ。
 
 ## Microtubuleへ続く
 
