@@ -133,6 +133,8 @@ myosinはactinと結合するので、coverslipをmyosinでコーティングす
 TIRFはsingle-moleculeメソッドという分類らしい。
 これはpyrene actinがbulkメソッドなのと対照。
 
+[[Assay]]
+
 ### Formin
 
 Forminもnucleationとelongationの両方を促進するが、Forminはリニアなフィラメントの形成を助け、
@@ -147,6 +149,11 @@ Actinと関連するたくさんのタンパク質がある。ここでそれら
 4のcofilinのsevering factorというのは、切り裂くって意味から枝分かれを促進するfactorという意味っぽい（今週のクイズの回答から）。
 
 多くのmyosinはbarbed endからpointed endに向かって移動するが、逆に移動するmyosinもある。
+
+### myosinの種類
+
+- myosin II ... 筋肉の収縮で力を生むmyosin
+- myosin V ... vesicle transportationに関わるmyosin
 
 ## APC-CとmDia1の実験
 

@@ -1,3 +1,4 @@
+- centrosome 中心体
 - centriole 中心小体
 - pneumatic 空気圧式の
 
@@ -7,9 +8,47 @@
 
 [PngNoteの13ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=12)
 
+Actinの特徴
+
+- ATP Binding
+- ポリマーを形成
+- Actinモノマーは一種類
+- Highly conserved
+
+Microtubuleの特徴
+
+- GTP Binding (ただし共有結合では無い）
+- ポリマーを形成
+- tubulinは複数存在
+- Highly conserved
+
+### チューブリンの種類
+
+- α, β ヘテロダイマーを形成する、Microtubuleの基本となる構成要素
+- γ nucleationに関わる
+- δ 中心小体に関わる
+- ε pericentriolar materialの一種
+
+### チューブリンはhighly conserved
+
+人間とイーストでαチューブリンは85%一致。
+
+一方で同一種の中でのチューブリンのα、β、γの間にはそれぞれ33%程度の一致しか無い。
+
+またバクテリアにもFtsZと呼ばれる類似の物質がある。
+
 ## チューブリンのModification
 
 [PngNoteの14ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=13)
+
+チューブリンは様々なmodificationが可能。
+
+- phosphorylation
+- acetylate
+- 側鎖を付加（polyglutamateなど)
+- 切断
+   - 最後尾の数アミノ酸をカット
+   - 戻す修正もある (tyrosination, detyrosination）
 
 ## α/βヘテロダイマーとプロトフィラメントの構成
 
