@@ -63,12 +63,23 @@ Microtubuleの特徴
 
 [PngNoteの15ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=14)
 
+プロトフィラメントが12〜15本くらい集まってMicrotubuleが出来る。だいたい13本。
+真ん中の穴は25nmくらいで、細胞内のスケールとしては結構大きい。
+
+### GTPとGDPによる形状の違い
+
+ダイマーとしてはGTP boundの時はまっすぐ、 GDP boundの時は折れ曲がった形となる。
+フィラメントの一部の場合はGDPでもまっすぐな状態が保たれる（先端を除く）。
 
 ## Microtubule形成のダイナミクス
 
 [PngNoteの16ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=15)
 
-growthとshrinkage（またの名をdepolymerization）が起こる。
+形成の総量だけを計測すると、actinと同じようなダイナミクスで、nucleation, elongation, steady stateの３つの状態がある。
+
+だが個々のMicrotubuleの長さを調べるとactinとは違い、ギザギザの振る舞いとなる。
+
+growthとshrinkage（またの名をdepolymerization）が交互に起こって、両者のフェーズはきっちり分かれる。
 growth rateやdepolymerization rateを考える事が出来る。
 
 そしてgrowthとshrinkageの間の状態としてtransition stateがある。それぞれ以下のように呼ぶ。
@@ -86,6 +97,10 @@ growth rateやdepolymerization rateを考える事が出来る。
 ## ShrinkingとGrowingの仕組み
 
 [PngNoteの17ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=16)
+
+Growing: 個々のフィラメントが伸びていき、そろった所が縫い合わされる。先端はGTP boundでまっすぐなので簡単に揃う（stabilize）
+
+Shrinking: 先端がGDP boundになると先端では曲がる事が出来るのでめくれていって、チューブが外側に開いていく。
 
 ## Microtubuleの制御へ続く
 
