@@ -64,3 +64,4 @@ Secretory proteinがどう輸送されていくか。
 ### Unit: 細胞分裂
 
 - [細胞分裂の概要](細胞分裂の概要.md)
+- [PairingとCondensation](PairingとCondensation.md)
