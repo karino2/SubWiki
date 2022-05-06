@@ -65,3 +65,6 @@ Secretory proteinがどう輸送されていくか。
 
 - [細胞分裂の概要](細胞分裂の概要.md)
 - [PairingとCondensation](PairingとCondensation.md)
+- [Segregate](Segregate.md)
+- [Meiosis概要](Meiosis概要.md)
+
