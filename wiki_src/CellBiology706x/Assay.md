@@ -1,3 +1,9 @@
+## Membrane関連
+
+[[Membrane]]より。
+
+FRAP, Fluorescence recovery after photobleaching。
+
 ## Actin関連
 
 [[Actinとそのポリマー化]]より。

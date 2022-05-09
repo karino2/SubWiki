@@ -2,12 +2,36 @@
 
 [PngNoteの33ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=32)
 
-- prophase
-- prometaphase
-- metaphase
-- anaphase
+### Segregateに必要な事
 
-と進む。prometaphaseで染色体がmicrotubuleにアタッチされる。
+Segregateには以下が必要
+
+1. 各染色体を捕獲する為に、物理的なアタッチメントが必要 (prometaフェーズ)
+2. sister chromatidのペアのそれぞれを、反対側の極にアタッチする事を保証 (prometaフェーズ)
+3. 染色体を赤道面(metaphase plate)に並べる事が必要(metaフェーズ)
+4. sister chromatidsをsegregate awayして新たなcellに配置（anaフェーズ)
+
+### Segregateのフェーズ
+
+上記の必要な事に対応して、Segregateのフェーズは以下のように進む。
+
+1. prophase  
+condensatioや核膜のbreak downが起こる（菌類など核膜のbreak downが最後まで起こらない生き物もいる）
+2. prometaphase  
+染色体がmicrotubuleにアタッチされる
+3. metaphase  
+赤道面に並べる
+4. anaphase  
+実際にsister chromatidsをsegreate awayして新たな細胞に配置
+
+### Segregationの２つの運動とAnaphase
+
+Anaphaseには２つの運動がある。
+
+- AnaphaseA: 染色体が極に向かって移動
+- AnaphaseB: Spindleポールが離れていく
+
+両者は別々に起こるとは限らないが、別々の運動である。
 
 ## Segregateで起こりうる問題
 
@@ -26,6 +50,10 @@
 
 [PngNoteの34ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=33)
 
+unattachedとmonopolarに関しては、microtubuleがアタッチされているかどうかを調べる事で検出できるが、
+これではsyntelicは区別出来ない。
+
+syntelicやmerotelicは、力を検出する事で区別している。
 
 ## Cytokinesis
 

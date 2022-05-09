@@ -86,6 +86,8 @@ FRAP, Fluorescence recovery after photobleaching。
 時間が経ったあとにもとのレベルに戻るか、途中までしか戻らないかは膜とかタンパク質に依る。動かないタンパク質が残っていたり。
 そこで、FRAPにおけるDiffusion Rateは、十分に時間が経った後に戻る水準の半分までrecoverするのにかかる時間、と定義される。
 
+[Assay](Assay.md)
+
 ## HeterogeneityとAsymmetry
 
 [MembraneのHeterogeneityとAsymmetry](MembraneのHeterogeneityとAsymmetry.md)へ
