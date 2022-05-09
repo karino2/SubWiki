@@ -37,6 +37,8 @@ Anaphaseには２つの運動がある。
 
 [PngNoteの34ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=33)
 
+microtubuleが接続する場所をkinetochoreと呼ぶ。
+
 正常なケース、両方に反対の極からattachする状態をBi-orientedと呼ぶ。
 
 正しいSegregateの為にはBi-orientedである必要があるが、それがうまく行かないケースがいろいろ考えられる
@@ -55,9 +57,34 @@ unattachedとmonopolarに関しては、microtubuleがアタッチされてい�
 
 syntelicやmerotelicは、力を検出する事で区別している。
 
+- 力が無い⇒シグナル⇒turn kinetochore off (microtubuleを外す）⇒再挑戦
+- 力がある⇒kinetochore-microtubule接合を保護
+
+### AuroraBの活性と力
+
+力の検出にはAuroraBが関わっていると思われる。
+
+- 力が低い⇒AuroraBの活性大
+- 力が大⇒AuroraBの活性低
+
+AuroraBはkinetochoreを構成するNDC80をリン酸化する。
+リン酸化されるとkinetochoreのホールドが外れる模様。
+
 ## Cytokinesis
 
 - Dictyostelium 細胞性粘菌
 - morphology 形態（学）
+- furrow わだち
 
 [PngNoteの35ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=34)
+
+Cytokinetic furrowはactin ring+myosinで出来ていて、
+両極からのmicrotubuleが接する所がcytokinetic furrowをどこに形成するかのシグナルを生む。
+
+cell cortexに局在するdyneinがastral microtubuleと結合して中心体を引っ張る。
+
+[Microtubuleの制御](Microtubuleの制御.md)も参考。
+
+## 次：Meiosis概要
+
+[Meiosis概要](Meiosis概要.md)に続く
