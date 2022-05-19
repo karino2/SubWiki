@@ -78,3 +78,6 @@ Secretory proteinがどう輸送されていくか。
 
 - [[CellCycleの制御]]
 
+### Part2の感想ブログ
+
+[edXのCell Biology Part2の感想 - なーんだ、ただの水たまりじゃないか](https://karino2.github.io/2022/05/19/cell_biology_part2_finish.html) 感想書いた。
