@@ -81,3 +81,15 @@ Secretory proteinがどう輸送されていくか。
 ### Part2の感想ブログ
 
 [edXのCell Biology Part2の感想 - なーんだ、ただの水たまりじゃないか](https://karino2.github.io/2022/05/19/cell_biology_part2_finish.html) 感想書いた。
+
+----
+
+## Part3: Cell Biology: Cell-Cell Interactions
+
+[Cell Biology: Cell-Cell Interactions | edX](https://www.edx.org/course/cell-biology-3)
+
+[CellBiology706x3@PngNote](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=0) slideがページ数。
+
+### Unit: Cell Adhesion and Polarity
+
+- [[細胞間相互作用の為の組織学]]
