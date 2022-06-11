@@ -1,6 +1,7 @@
 [[細胞間相互作用の為の組織学]]の次。
+細胞間結合の１つ目、Adherens Junctionについて見ていく。
 
-## Cadherinsによる細胞間結合
+## Cadherinsによる細胞間結合（Adherens Junction)
 
 [4ページ](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=3)
 
@@ -37,3 +38,32 @@ CadherinとCytoskeletonがつながって全体としてベルトを形成する
 
 Adhesion BeltはApical側に形成される。これが締まると、巾着袋の口が閉じるように上側がすぼまり、下側が広がったままの形となる。
 すぼまってる所にはlocal contractionが生まれる訳だ。
+
+## Mechanotransduction(暫定的にここに置く）
+
+- load bearing 耐荷重性
+
+[7ページ](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=6)
+
+外部の力がBiochemicalな信号になる仕組み。これがStem細胞の分化を引き起こしている模様。
+
+adherenes junctionsのload-bearing proteinsがこの変換を行っている模様。
+
+### Tension Sensor
+
+FRETを応用し、２つのFluorophoreの間にバネのようなタンパク質をエンコードする事で、力に対してFRETで検出出来るようにする。
+
+[7ページ](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=6)
+
+これを用いて、Adherenes Junctionsのうちどのタンパク質が力が掛かって変形するか、とか、
+Adherenes Junctionsが形成されるのにどのタンパク質が必要かを調べたりとか出来る。
+
+[8ページ](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=7)
+
+これにより、例えばCadherinに力を加えると、ますます多くのCadherinクラスタが形成される事がわかっていて、
+ますます強く結合する事になる。
+結合が強くなれば引っ張る力が減ってこの効果が止まる。
+
+## Tight Junctionsに続く
+
+[[TightJunctions]]

@@ -86,11 +86,20 @@ Secretory proteinがどう輸送されていくか。
 
 ## Part3: Cell Biology: Cell-Cell Interactions
 
-[Cell Biology: Cell-Cell Interactions | edX](https://www.edx.org/course/cell-biology-3)
+[Cell Biology: Cell-Cell Interactions](https://www.edx.org/course/cell-biology-3)
 
 [CellBiology706x3@PngNote](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=0) slideがページ数。
 
 ### Unit: Cell Adhesion and Polarity
 
+3種類のCell-Cell Adhesionを見ていく。
+
 - [細胞間相互作用の為の組織学](細胞間相互作用の為の組織学.md)
-- [細胞間結合とCadherins](細胞間結合とCadherins.md)
+- [細胞間結合とCadherins](細胞間結合とCadherins.md) １つ目のCell-Cell Adhesionである、Adherens Junctions
+- [TightJunctions](TightJunctions.md) ２つ目のCell-Cell Adhesion
+- [CellMatrixJunctions](CellMatrixJunctions.md) ３つ目のCell Adhesion
+
+### Unit: Morphogenesis, Stem Cells, and Regeneration
+
+- [Morphogenesis](Morphogenesis.md)
+- [Morphogenesis関連のシグナリングpathway](Morphogenesis関連のシグナリングpathway.md)
