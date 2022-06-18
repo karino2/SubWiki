@@ -42,6 +42,8 @@ Secretory proteinがどう輸送されていくか。
 - [変更を実現するメカニズム](変更を実現するメカニズム.md)
 - [UbiquitinationとDegradation](UbiquitinationとDegradation.md)
 
+最後２つのUnitは[シグナルpathway](シグナルpathway.md)にまとめておこう。
+
 ----
 
 ## Part 2: The Cytoskeleton and Cell Cycle
@@ -103,3 +105,10 @@ Secretory proteinがどう輸送されていくか。
 
 - [Morphogenesis](Morphogenesis.md)
 - [Morphogenesis関連のシグナリングpathway](Morphogenesis関連のシグナリングpathway.md)
+- [Regeneration](Regeneration.md)
+- [IntestinalStemCells](IntestinalStemCells.md) 具体例として腸を見る。
+
+### Unit: Cell Death and Autophagy
+
+- [CellDeath](CellDeath.md)
+- [アポトーシスのpathway](アポトーシスのpathway.md)

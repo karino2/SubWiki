@@ -17,3 +17,9 @@ FRAP, Fluorescence recovery after photobleaching。
 - Motor Gliding Assay
 - Motor Mobility Assay
 - Optical Trap Assay
+
+## Apoptosis関連
+
+[CellDeath](CellDeath.md)より。
+
+- TUNEL assay ... TdTとdUTPを使って3'をラベルづけする事でapoptosis中の細胞を見分けるassay

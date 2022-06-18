@@ -102,3 +102,7 @@ Morphogen gradientsは外部要因による制御を受ける。
 - Antagonists ... デコイレセプター、Transcriptional regulatorによるブロック
 - Gradient amplifiers ... morphogensを輸送するキャリアプロテインなど
 - Feedback loops ... Hhのpathwayなどはたくさんのフィードバックループを含み、様々なpathwayと影響する
+
+## Regenerationへ続く
+
+[[Regeneration]]

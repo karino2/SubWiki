@@ -22,6 +22,8 @@ Morphogenesisは発生学で形態形成という意味。
 
 [13ページ](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=12)
 
+pdfのStem Cell Potency.pdfも参照のこと。
+
 vegetal pole 胚のうち、初期の頃にあまり細胞分裂しない側のpole。反対をanimal poleと呼ぶらしい。
 
 最初はホモジーニアスに分裂していくが、一定以上分裂が進むと、vegetal poleの側に向かって進んでいき、
