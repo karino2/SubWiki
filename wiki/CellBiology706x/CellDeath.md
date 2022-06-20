@@ -91,6 +91,8 @@ egl-1はegg laying（産卵）に関わる別のスクリーニングで見つ�
 
 Ced-9 KOが生物全体をApoptosisしてしまう事から、通常のCed-9は細胞がアポトーシスされてしまうのを防いでいると思われる。
 
+Apaf-1などは次の[アポトーシスのpathway](アポトーシスのpathway.md)に詳細がある。
+
 ## 次：アポトーシスのpathwayに続く
 
 [アポトーシスのpathway](アポトーシスのpathway.md)

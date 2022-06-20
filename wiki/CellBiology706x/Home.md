@@ -112,3 +112,4 @@ Secretory proteinがどう輸送されていくか。
 
 - [CellDeath](CellDeath.md)
 - [アポトーシスのpathway](アポトーシスのpathway.md)
+- [Autophagy](Autophagy.md) 短いけど。
