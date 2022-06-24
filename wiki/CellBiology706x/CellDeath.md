@@ -32,6 +32,8 @@ Phagocytesされるとlysosomeに分解される。
 
 Wikipediaと合わせてみると、[Nucleosome - Wikipedia](https://en.wikipedia.org/wiki/Nucleosome#cite_ref-diffbp_11-0)、ヒストンの周りが146 bpくらい、linker DNAが80bp以下との事。つまり合計で200bpくらいという事か。
 
+アポトーシスではCADと呼ばれるDNAseがDNAを切断する。CADはCaspase Activated DNAseの略。
+
 ### 単純にゲル電気泳動する 1-1
 
 CADの活動があるかを知りたければ、単純にDNAをゲル電気泳動してみれば良い。
