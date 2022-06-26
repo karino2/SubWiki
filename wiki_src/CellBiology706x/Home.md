@@ -117,3 +117,6 @@ Secretory proteinがどう輸送されていくか。
 ### Unit: Host-Pathogen Interactions
 
 - [[PathogensとVirulenceFactors]]
+- [[Salmonella]]
+
+

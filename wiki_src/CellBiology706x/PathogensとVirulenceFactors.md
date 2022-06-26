@@ -90,3 +90,7 @@ lysosomeの酵素が働ける環境を作る。
 
 vacuolar pathogenは最初限られたスペースと栄養素でlysosome fusionと戦う必要があり、
 cytosolic pathogenは細胞内の様々な機構にアクセス出来る分違った挑戦がある。
+
+## 次：サルモネラへ
+
+[[Salmonella]]
