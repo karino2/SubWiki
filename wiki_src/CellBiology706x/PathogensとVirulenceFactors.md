@@ -80,7 +80,7 @@ ListeriaはUSで年に1600件程度と感染者数は少ないが、死亡率は
 
 [27ページ](https://karino2.github.io/ImageGallery/CellBiology706x3.html#lg=1&slide=26)
 
-phagosomeがearlyからlateになるのには様々なエンドソームとのやり取りや、V-ATPaseがプロトンポンプとして内部のpHを下げて、
+phagosomeがearlyからlateになるのには様々なエンドソームとのやり取りや、V-ATPaseが(vATPaseと書かれる事もある）プロトンポンプとして内部のpHを下げて、
 lysosomeの酵素が働ける環境を作る。
 
 ### ２つの侵入メカニズム

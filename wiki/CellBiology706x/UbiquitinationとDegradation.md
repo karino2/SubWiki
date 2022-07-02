@@ -115,6 +115,8 @@ Proteaseにはspecificityがあるものと無いものがある。
 
 ### Caspaseとアポトーシス
 
+[アポトーシスのpathway](アポトーシスのpathway.md)も参照。
+
 caspasesはcell death、つまりアポトーシスに関わるプロテアーゼ。
 これには２つの状態がある。
 

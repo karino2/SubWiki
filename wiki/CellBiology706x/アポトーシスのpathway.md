@@ -25,6 +25,8 @@ Initiator CaspasesがActive Tetramerになると、他のCapsase、Effector Casp
 
 Initiator CaspasesはCaspases 8と10。
 
+[UbiquitinationとDegradation](UbiquitinationとDegradation.md)でも少し言及があるので参照のこと。
+
 ### Effector Caspase
 
 Effector Caspasesは3, 6, 7。

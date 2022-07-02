@@ -46,6 +46,8 @@ FITC-dextranを入れて漏れた結果を測ったり、電気抵抗を測っ�
 例として、TNFαがバリヤーに与える影響を調べる。
 TNFαは、Occludin, Cloudin, ZO-1などの発現を低下させる効果を持つ。
 
+TNF-αは[ImmuneResponse概要](ImmuneResponse概要.md)も参照。
+
 ## Cell-Matrix Junctionsへ続く
 
 [CellMatrixJunctions](CellMatrixJunctions.md)

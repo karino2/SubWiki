@@ -94,7 +94,7 @@ Arp2とArp3は結合して、これが他のActinモノマーと結合する事�
 
 ただしこの反応は他のタンパク質にコントロールされる。コントロールするタンパク質はActAやWASPなど。
 
-ListeriaというバクテリアはActAというタンパク質でこのArp2/3をrecruitしてアクティベートする。
+ListeriaというバクテリアはActAというタンパク質でこのArp2/3をrecruitしてアクティベートする。＞[[Listeria]]
 
 WASPもArp 2/3をアクティベートする事で知られている。WASPは Wiskott-Aldrich syndrome protein。
 Wiskott-Aldrich syndromeはWASPが機能しない事で引き起こされる病気。
