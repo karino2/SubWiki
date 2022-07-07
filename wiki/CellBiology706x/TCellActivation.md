@@ -7,6 +7,7 @@
 - granule 顆粒、微小体
 - leukocyte 白血球
 - extravasation 溢出（血管の外などに漏れ出す事）
+- attenuate 弱毒化する
 
 ## T cell Activation概要
 

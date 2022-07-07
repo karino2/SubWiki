@@ -76,6 +76,8 @@ GEFはDNAと結合する事で核の中に留まったりする。
 Ran-GTPとRan-GDPの濃度勾配で輸送の向きを実現している、という話だった。
 ではその勾配をどう計測して確認したら良いだろうか？
 
+[[Assay]]
+
 ### FRETの登場人物
 
 - IBB = Importin Beta Binding Protein、Importin-Betaがフリーステートの時に結合する（Cargoと同様）

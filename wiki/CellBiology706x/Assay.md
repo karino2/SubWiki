@@ -4,6 +4,12 @@
 
 FRAP, Fluorescence recovery after photobleaching。
 
+## Vesicle Transportation関連
+
+[NuclearPoreの輸送メカニズム](NuclearPoreの輸送メカニズム.md)より
+
+- FRET ... Forster Resonance Energy Transfer。２つのオーバーラップした波長のfluorophoreを使って、近い時と遠い時で光が変わる現象を使ってconformationを測る。Importin Bがついているかついていないか。
+
 ## Actin関連
 
 [Actinとそのポリマー化](Actinとそのポリマー化.md)より。
