@@ -92,6 +92,8 @@ palmitoylationで脂肪酸が付加する事で、油膜が貼られる感じで
 Hhは7-TM proteinへのシグナルが間接的で、間にいろいろ挟まる。
 Ciは無脊椎動物の時、GLiは脊椎動物の時。
 
+あとで見るように[Cancer](Cancer.md)ではこのWntのpathwayのDestruction Complexの一つであるAPCが関わるものがある。
+
 ## Morphogenのレギュレーション
 
 - antagonist 敵対者
