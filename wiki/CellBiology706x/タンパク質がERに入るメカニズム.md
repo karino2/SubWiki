@@ -156,3 +156,7 @@ Transmembrane ProteinのType IとType IIは、[MembraneのAsymmetry](Membraneの
 4. N末端がcytosol側に、C末端側がER lumen側に入る
 
 向きがいい感じになるメカニズムはあまり良くわかってない。
+
+## 次：Vesicleによる輸送
+
+[Vesicleによる輸送](Vesicleによる輸送.md)

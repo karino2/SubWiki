@@ -130,3 +130,9 @@ Secretory proteinがどう輸送されていくか。
 
 - [Cancer](Cancer.md)
 - [CancerMetastasis](CancerMetastasis.md)
+
+### Part3と全体の感想
+
+ブログに書いた。
+
+[edXのCell BiologyのコースのPart3の感想 - なーんだ、ただの水たまりじゃないか](https://karino2.github.io/2022/07/10/cell_biology_part3_finish.html)

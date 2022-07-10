@@ -118,3 +118,7 @@ vesicleにはv-SNAREが、目的地にはt-SNAREがあり、これらもまたsp
 - confer 話し合う、協議する
 
 VesicleFormation.pdf。
+
+## 次: ExocytosisとEndocytosis
+
+[[ExocytosisとEndocytosis]]

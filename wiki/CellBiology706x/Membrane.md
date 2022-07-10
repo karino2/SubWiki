@@ -88,6 +88,6 @@ FRAP, Fluorescence recovery after photobleaching。
 
 [Assay](Assay.md)
 
-## HeterogeneityとAsymmetry
+## 次：MembraneのHeterogeneity
 
-[MembraneのHeterogeneityとAsymmetry](MembraneのHeterogeneityとAsymmetry.md)へ
+[MembraneのHeterogeneity](MembraneのHeterogeneity.md)へ

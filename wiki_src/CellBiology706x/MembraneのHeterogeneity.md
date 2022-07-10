@@ -64,4 +64,8 @@ polar headと疎水性のtailという構成なのはリン脂質と同じ。た
 それは同様にERやGolgiではlumen側、つまり内側に配置される事になる。
 endocytosisで取り込む時を考えると細胞膜の外側がERの内側になる事が分かる。
 
-これは[[MembraneのAsymmetry]]の話題にも関連。
+これは次の[[MembraneのAsymmetry]]の話題にも関連。
+
+## 次：MembraneのAsymmetry
+
+[[MembraneのAsymmetry]]
