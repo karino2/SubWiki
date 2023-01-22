@@ -21,6 +21,8 @@ IMEの制御などは、KeyboardOptionsのkeyboardTypeで指定出来る模様�
 
 ただ、この時点で存在してないものにreuqestFocusするとexceptionが飛ぶ（stateを変えるイベント内で制御したい時は困る）。
 
+なお、requestFocusした時にsoftkeyが出ない事があるが、 `delay(300)` とか挟むと出るようになる。
+
 ### TextFieldのimeActionの指定方法とEnterされた時のハンドル
 
 imeActionは[Text in Compose  -  Jetpack Compose](https://developer.android.com/jetpack/compose/text)のKeyboard optionsあたりに書いてある。
