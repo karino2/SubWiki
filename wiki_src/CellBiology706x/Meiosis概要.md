@@ -1,3 +1,5 @@
+前: [[Segregate]]
+
 - gamete 配偶子
 
 細胞分裂の補足としてMeiosisにも軽く触れる。

@@ -1,3 +1,5 @@
+前: [PairingとCondensation](PairingとCondensation.md)
+
 ## Segregateの概要
 
 [PngNoteの33ページ](https://karino2.github.io/ImageGallery/CellBiology706x2.html#lg=1&slide=32)

@@ -56,3 +56,7 @@ condensinもcohesinと似た輪ゴムっぽい構造だが、一本のstrandを�
 
 輪っかで止めてDNAを押し出す事で２つ折りの構造のひだのようなものを作っていく。
 このDNAを押し出す所ではATPを消費するのでCondensinはATPアーゼとして振る舞う。
+
+## 次: Segregate
+
+[[Segregate]]
