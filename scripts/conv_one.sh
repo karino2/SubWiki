@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-FNAME=`basename $2`
-DST="../wiki/$1/$FNAME"
+FNAME=`basename $1`
+DST="../wiki/$FNAME"
 
-sed 's/\[\[\([^]]*\)\]\]/\[\1\](\1.md)/g' $2 > $DST
+cat $1 | python expand_wikilink.py > $DST
