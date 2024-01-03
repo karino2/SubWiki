@@ -2,3 +2,4 @@
 
 Jetpack ComposeにはDialogといものがあり、[[DropdownMenu]]などはこれを使って作られている模様。
 上記ページは割とちゃんと解説されている。
+DatePickerDialogなどは[[DatePicker]]を参照の事。

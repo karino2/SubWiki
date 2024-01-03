@@ -1,0 +1,3 @@
+[androidx.compose.material3  -  Android Developers](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#DatePickerDialog(kotlin.Function0,kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Function0,androidx.compose.ui.graphics.Shape,androidx.compose.ui.unit.Dp,androidx.compose.material3.DatePickerColors,androidx.compose.ui.window.DialogProperties,kotlin.Function1))
+
+DatePickerとDatePickerDialogは簡単に上記のページに説明がある。DatePickerStateに結果が入る模様。
