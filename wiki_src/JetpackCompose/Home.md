@@ -2,6 +2,7 @@ JetpackComposeの関数名などをそのままWikiNameとして使いたいの�
 
 - [[Box]]
 - [[Card]]
+- [[Dialog]]
 - [[Surface]]
 - [[TextField]]
 - [[Button]]
