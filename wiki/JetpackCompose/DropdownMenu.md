@@ -7,6 +7,6 @@ Material Designへのリンクが貼られている。[Menus – Material Design
 ここが一番充実した解説がある。
 ExposedDropdownMenuを使うには、ExposedDropdownMenuBoxの中にTexFieldとExposedDropdownMenuを入れるのが良さそう。
 
-なお、Material Component3自体の解説はここにある。[Material Design 3 in Compose  -  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/designsystems/material3)
+なお、Material Component3自体の解説はここにある。[Material Design 3 in Compose  -  Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/designsystems/material3)
 
 まぁまぁ詳しいがDropdownMenuについての解説は無い。
