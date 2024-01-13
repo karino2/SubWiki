@@ -3,6 +3,7 @@ JetpackComposeの関数名などをそのままWikiNameとして使いたいの�
 - [Box](Box)
 - [Card](Card)
 - [Dialog](Dialog)
+- [Row](Row)
 - [DatePicker](DatePicker)
 - [Surface](Surface)
 - [TextField](TextField)
