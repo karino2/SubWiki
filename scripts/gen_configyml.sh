@@ -1,4 +1,4 @@
-#!/usr/bin/env oil
+#!/usr/bin/env osh
 
 const DEST="../_config.yml"
 
