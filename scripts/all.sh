@@ -4,7 +4,7 @@ SCRIPTS_DIR=$(dirname $0)
 
 cd $SCRIPTS_DIR
 ./gen_recents_include.sh
-./copy.sh
+./copy.sh $1
 ./conv.sh
 ./gen_home.sh
 ./gen_configyml.sh
