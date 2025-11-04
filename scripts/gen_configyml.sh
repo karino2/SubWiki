@@ -1,4 +1,4 @@
-#!/usr/bin/env osh
+#!/usr/bin/env ysh
 
 const DEST="../_config.yml"
 
